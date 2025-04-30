@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background Circle -->
+    <circle cx="100" cy="100" r="90" fill="#ff9a9e"/>
+    
+    <!-- Book -->
+    <path d="M60 40 L140 40 L140 160 L60 160 Z" fill="#ffffff"/>
+    <path d="M70 50 L130 50 L130 150 L70 150 Z" fill="#fad0c4"/>
+    
+    <!-- ABC Letters -->
+    <text x="85" y="80" font-family="Comic Sans MS" font-size="30" fill="#ff6b6b">A</text>
+    <text x="75" y="120" font-family="Comic Sans MS" font-size="30" fill="#4ecdc4">B</text>
+    <text x="85" y="160" font-family="Comic Sans MS" font-size="30" fill="#a8e6cf">C</text>
+    
+    <!-- Decorative Elements -->
+    <circle cx="40" cy="40" r="10" fill="#ffd700"/>
+    <circle cx="160" cy="40" r="10" fill="#ffd700"/>
+    <circle cx="40" cy="160" r="10" fill="#ffd700"/>
+    <circle cx="160" cy="160" r="10" fill="#ffd700"/>
+    
+    <!-- Smiley Face -->
+    <circle cx="100" cy="100" r="20" fill="#ff6b6b"/>
+    <circle cx="90" cy="95" r="3" fill="#ffffff"/>
+    <circle cx="110" cy="95" r="3" fill="#ffffff"/>
+    <path d="M90 110 Q100 120 110 110" stroke="#ffffff" stroke-width="2" fill="none"/>
+</svg> 
